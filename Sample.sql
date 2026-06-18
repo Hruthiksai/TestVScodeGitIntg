@@ -1,1 +1,2 @@
-select * from Emp;
+select * from Emp
+where EMPNO =109;
